@@ -5,24 +5,47 @@ namespace TypeConversionApplication {
    class StringConversion {
       
       static void Main(string[] args) {
-		  
-		 //type-conviesion
-         
-		 int i = 75;
-         float f = 53.005f;
-         double d = 2345.7652;
-         bool b = true;
 
-         Console.WriteLine(i.ToString());
-         Console.WriteLine(f.ToString());
-         Console.WriteLine(d.ToString());
-         Console.WriteLine(b.ToString());
-         
-         Console.WriteLine((int)(f));
-         Console.WriteLine((double)(f));
-         Console.WriteLine((float)(i));
-        
-		 
+            Console.WriteLine("Select the number of operations which you want to see the example");
+            Console.WriteLine("1. type-coversion");
+            Console.WriteLine("2. constants");
+            Console.WriteLine("3. operators");
+            Console.WriteLine("4. loops using guessing game");
+            Console.WriteLine("5. Encapsulation");
+            Console.WriteLine("6. overriding");
+            int num = Convert.ToInt32(Console.ReadLine());
+
+
+
+            switch (num) 
+            {
+                case 1: //type-conviesion
+                    int i = 75;
+                    float f = 53.005f;
+                    double d = 2345.7652;
+                    bool b = true;
+
+                    Console.WriteLine("i={0}", i);
+                    Console.WriteLine("f={0}", f);
+                    Console.WriteLine("d={0}", d);
+                    Console.WriteLine("b={0}", b);
+
+                    Console.WriteLine("i is converted into string : {0}",i.ToString());
+                    Console.WriteLine("f is converted into string : {0}", f.ToString());
+                    Console.WriteLine("d is converted into string : {0}", d.ToString());
+                    Console.WriteLine("b is converted into string : {0}", b.ToString());
+
+                    Console.WriteLine("f is converted into integer : {0}"(int)(f));
+                    Console.WriteLine("f is converted into double : {0}"(double)(f));
+                    Console.WriteLine("i is converted into float : {0}"(float)(i));
+                    break;
+                case 2:
+                case 3:
+                case 4:
+                case 5:
+                case 6:
+                default:
+            }
 		 //constants
 		 
 		 const double pi = 3.14;   
