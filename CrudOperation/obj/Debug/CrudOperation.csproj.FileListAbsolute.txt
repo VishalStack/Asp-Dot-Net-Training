@@ -1,0 +1,13 @@
+C:\Users\kirta\source\repos\CrudOperation\bin\Debug\CrudOperation.exe.config
+C:\Users\kirta\source\repos\CrudOperation\bin\Debug\CrudOperation.exe
+C:\Users\kirta\source\repos\CrudOperation\bin\Debug\CrudOperation.pdb
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.csproj.AssemblyReference.cache
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.Form1.resources
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.Properties.Resources.resources
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.csproj.GenerateResource.cache
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.exe
+C:\Users\kirta\source\repos\CrudOperation\obj\Debug\CrudOperation.pdb
+C:\Users\kirta\source\repos\CrudOperation\bin\Debug\Crud.mdf
+C:\Users\kirta\source\repos\CrudOperation\bin\Debug\Crud_log.ldf
