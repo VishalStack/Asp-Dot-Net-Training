@@ -1,0 +1,10 @@
+C:\Users\naxis\source\repos\CRUDoperation_SP\bin\Debug\CRUDoperation_SP.exe.config
+C:\Users\naxis\source\repos\CRUDoperation_SP\bin\Debug\CRUDoperation_SP.exe
+C:\Users\naxis\source\repos\CRUDoperation_SP\bin\Debug\CRUDoperation_SP.pdb
+C:\Users\naxis\source\repos\CRUDoperation_SP\obj\Debug\CRUDoperation_SP.csproj.AssemblyReference.cache
+C:\Users\naxis\source\repos\CRUDoperation_SP\obj\Debug\CRUDoperation_SP.Form1.resources
+C:\Users\naxis\source\repos\CRUDoperation_SP\obj\Debug\CRUDoperation_SP.Properties.Resources.resources
+C:\Users\naxis\source\repos\CRUDoperation_SP\obj\Debug\CRUDoperation_SP.csproj.GenerateResource.cache
+C:\Users\naxis\source\repos\CRUDoperation_SP\obj\Debug\CRUDoperation_SP.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\CRUDoperation_SP\obj\Debug\CRUDoperation_SP.exe
+C:\Users\naxis\source\repos\CRUDoperation_SP\obj\Debug\CRUDoperation_SP.pdb
