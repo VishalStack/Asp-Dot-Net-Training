@@ -1,0 +1,13 @@
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.csproj.AssemblyReference.cache
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.csproj.SuggestedBindingRedirects.cache
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.Form1.resources
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.Properties.Resources.resources
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.csproj.GenerateResource.cache
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\bin\Debug\Tutorials.mdf
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\bin\Debug\Tutorials_log.ldf
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\bin\Debug\CRUDoperation.exe.config
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\bin\Debug\CRUDoperation.exe
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\bin\Debug\CRUDoperation.pdb
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.exe
+C:\Users\patel\source\repos\CRUDoperation\CRUDoperation\obj\Debug\CRUDoperation.pdb
