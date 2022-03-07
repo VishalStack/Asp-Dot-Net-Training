@@ -1,0 +1,15 @@
+C:\Users\kirta\source\repos\PatternApp\bin\Debug\net6.0\PatternApp.exe
+C:\Users\kirta\source\repos\PatternApp\bin\Debug\net6.0\PatternApp.deps.json
+C:\Users\kirta\source\repos\PatternApp\bin\Debug\net6.0\PatternApp.runtimeconfig.json
+C:\Users\kirta\source\repos\PatternApp\bin\Debug\net6.0\PatternApp.dll
+C:\Users\kirta\source\repos\PatternApp\bin\Debug\net6.0\PatternApp.pdb
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.csproj.AssemblyReference.cache
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.AssemblyInfoInputs.cache
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.AssemblyInfo.cs
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.csproj.CoreCompileInputs.cache
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.dll
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\refint\PatternApp.dll
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.pdb
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\PatternApp.genruntimeconfig.cache
+C:\Users\kirta\source\repos\PatternApp\obj\Debug\net6.0\ref\PatternApp.dll

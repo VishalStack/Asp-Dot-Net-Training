@@ -1,0 +1,15 @@
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\bin\Debug\net6.0\ConsoleInheritanceApp.exe
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\bin\Debug\net6.0\ConsoleInheritanceApp.deps.json
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\bin\Debug\net6.0\ConsoleInheritanceApp.runtimeconfig.json
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\bin\Debug\net6.0\ConsoleInheritanceApp.dll
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\bin\Debug\net6.0\ConsoleInheritanceApp.pdb
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.csproj.AssemblyReference.cache
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.AssemblyInfoInputs.cache
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.AssemblyInfo.cs
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.dll
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\refint\ConsoleInheritanceApp.dll
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.pdb
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ConsoleInheritanceApp.genruntimeconfig.cache
+C:\Users\kirta\source\repos\ConsoleInheritanceApp\obj\Debug\net6.0\ref\ConsoleInheritanceApp.dll
