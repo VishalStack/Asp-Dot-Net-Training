@@ -1,0 +1,15 @@
+C:\Users\patel\source\repos\code2\code2\bin\Debug\net6.0\code2.exe
+C:\Users\patel\source\repos\code2\code2\bin\Debug\net6.0\code2.deps.json
+C:\Users\patel\source\repos\code2\code2\bin\Debug\net6.0\code2.runtimeconfig.json
+C:\Users\patel\source\repos\code2\code2\bin\Debug\net6.0\code2.dll
+C:\Users\patel\source\repos\code2\code2\bin\Debug\net6.0\code2.pdb
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.csproj.AssemblyReference.cache
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.AssemblyInfo.cs
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.dll
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\refint\code2.dll
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.pdb
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\code2.genruntimeconfig.cache
+C:\Users\patel\source\repos\code2\code2\obj\Debug\net6.0\ref\code2.dll
