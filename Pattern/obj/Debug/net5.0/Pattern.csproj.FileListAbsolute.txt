@@ -1,0 +1,15 @@
+C:\Users\naxis\source\repos\Pattern\bin\Debug\net5.0\Pattern.exe
+C:\Users\naxis\source\repos\Pattern\bin\Debug\net5.0\Pattern.deps.json
+C:\Users\naxis\source\repos\Pattern\bin\Debug\net5.0\Pattern.runtimeconfig.json
+C:\Users\naxis\source\repos\Pattern\bin\Debug\net5.0\Pattern.runtimeconfig.dev.json
+C:\Users\naxis\source\repos\Pattern\bin\Debug\net5.0\Pattern.dll
+C:\Users\naxis\source\repos\Pattern\bin\Debug\net5.0\ref\Pattern.dll
+C:\Users\naxis\source\repos\Pattern\bin\Debug\net5.0\Pattern.pdb
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\Pattern.AssemblyInfo.cs
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\Pattern.dll
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\ref\Pattern.dll
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\Pattern.pdb
+C:\Users\naxis\source\repos\Pattern\obj\Debug\net5.0\Pattern.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\naxis\source\repos\Electricity_Bill\bin\Debug\net5.0\Electricity_Bill.exe
+C:\Users\naxis\source\repos\Electricity_Bill\bin\Debug\net5.0\Electricity_Bill.deps.json
+C:\Users\naxis\source\repos\Electricity_Bill\bin\Debug\net5.0\Electricity_Bill.runtimeconfig.json
+C:\Users\naxis\source\repos\Electricity_Bill\bin\Debug\net5.0\Electricity_Bill.runtimeconfig.dev.json
+C:\Users\naxis\source\repos\Electricity_Bill\bin\Debug\net5.0\Electricity_Bill.dll
+C:\Users\naxis\source\repos\Electricity_Bill\bin\Debug\net5.0\ref\Electricity_Bill.dll
+C:\Users\naxis\source\repos\Electricity_Bill\bin\Debug\net5.0\Electricity_Bill.pdb
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.csproj.AssemblyReference.cache
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.AssemblyInfoInputs.cache
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.AssemblyInfo.cs
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.dll
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\ref\Electricity_Bill.dll
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.pdb
+C:\Users\naxis\source\repos\Electricity_Bill\obj\Debug\net5.0\Electricity_Bill.genruntimeconfig.cache
