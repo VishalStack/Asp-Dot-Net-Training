@@ -1,5 +1,4 @@
-﻿
-@model code4.Models.Staffmodel
+﻿@model code4.Models.StaffModel
 
 
 @using (Html.BeginForm()) 
@@ -7,7 +6,7 @@
     @Html.AntiForgeryToken()
     
     <div class="form-horizontal">
-        <h4>Staffmodel</h4>
+        <h4>StaffModel</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
@@ -65,4 +64,3 @@
 <script src="~/Scripts/jquery-3.4.1.min.js"></script>
 <script src="~/Scripts/jquery.validate.min.js"></script>
 <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
-

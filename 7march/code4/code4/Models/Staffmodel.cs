@@ -6,12 +6,12 @@ using System.Web;
 
 namespace code4.Models
 {
-    public class Staffmodel
+    public class StaffModel
     {
         [Display(Name = "Id")]
         public int Id { get; set; }
 
-        [Required(ErrorMessage = " Fullname is required.")]
+        [Required(ErrorMessage = "Fullname is required.")]
         public string FullName { get; set; }
 
         [Required(ErrorMessage = "DOB is required.")]
@@ -26,6 +26,7 @@ namespace code4.Models
         [Required(ErrorMessage = "Gender is required.")]
         public string Gender { get; set; }
 
+        public List<StaffModel> GetStaff { get; set; }
+
     }
 }
-
