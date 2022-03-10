@@ -1,0 +1,11 @@
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\bin\Debug\DataAccessTier.dll.config
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\bin\Debug\DataEntityTier.exe
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\bin\Debug\DataEntityTier.pdb
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\bin\Debug\DataEntityTier.exe.config
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\obj\Debug\DataAccessTier.csproj.AssemblyReference.cache
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\obj\Debug\DataAccessTier.csproj.CoreCompileInputs.cache
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\obj\Debug\DataAccessTier.csproj.CopyComplete
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\kirta\source\repos\DataEntityTier\DataAccessTier\obj\Debug\DataAccessTier.pdb

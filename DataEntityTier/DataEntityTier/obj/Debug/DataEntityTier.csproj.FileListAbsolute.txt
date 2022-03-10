@@ -1,0 +1,10 @@
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\bin\Debug\DataEntityTier.exe.config
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\bin\Debug\DataEntityTier.exe
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\bin\Debug\DataEntityTier.pdb
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.AssemblyReference.cache
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.Properties.Resources.resources
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.GenerateResource.cache
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.CoreCompileInputs.cache
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.exe
+C:\Users\kirta\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.pdb
