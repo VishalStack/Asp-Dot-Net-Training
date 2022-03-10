@@ -1,0 +1,10 @@
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\bin\Debug\DataEntityTier.exe.config
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\bin\Debug\DataEntityTier.exe
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\bin\Debug\DataEntityTier.pdb
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.AssemblyReference.cache
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.Properties.Resources.resources
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.GenerateResource.cache
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.exe
+C:\Users\patel\source\repos\DataEntityTier\DataEntityTier\obj\Debug\DataEntityTier.pdb
