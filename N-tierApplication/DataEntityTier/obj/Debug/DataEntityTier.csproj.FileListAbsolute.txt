@@ -1,0 +1,9 @@
+C:\Users\naxis\source\repos\DataEntityTier\bin\Debug\DataEntityTier.exe.config
+C:\Users\naxis\source\repos\DataEntityTier\bin\Debug\DataEntityTier.exe
+C:\Users\naxis\source\repos\DataEntityTier\bin\Debug\DataEntityTier.pdb
+C:\Users\naxis\source\repos\DataEntityTier\obj\Debug\DataEntityTier.csproj.AssemblyReference.cache
+C:\Users\naxis\source\repos\DataEntityTier\obj\Debug\DataEntityTier.Properties.Resources.resources
+C:\Users\naxis\source\repos\DataEntityTier\obj\Debug\DataEntityTier.csproj.GenerateResource.cache
+C:\Users\naxis\source\repos\DataEntityTier\obj\Debug\DataEntityTier.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\DataEntityTier\obj\Debug\DataEntityTier.exe
+C:\Users\naxis\source\repos\DataEntityTier\obj\Debug\DataEntityTier.pdb

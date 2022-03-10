@@ -1,0 +1,11 @@
+C:\Users\naxis\source\repos\DataAccessTier\bin\Debug\DataAccessTier.dll.config
+C:\Users\naxis\source\repos\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\naxis\source\repos\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\naxis\source\repos\DataAccessTier\bin\Debug\DataEntityTier.exe
+C:\Users\naxis\source\repos\DataAccessTier\bin\Debug\DataEntityTier.pdb
+C:\Users\naxis\source\repos\DataAccessTier\bin\Debug\DataEntityTier.exe.config
+C:\Users\naxis\source\repos\DataAccessTier\obj\Debug\DataAccessTier.csproj.AssemblyReference.cache
+C:\Users\naxis\source\repos\DataAccessTier\obj\Debug\DataAccessTier.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\DataAccessTier\obj\Debug\DataAccessTier.csproj.CopyComplete
+C:\Users\naxis\source\repos\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\naxis\source\repos\DataAccessTier\obj\Debug\DataAccessTier.pdb

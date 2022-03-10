@@ -1,0 +1,14 @@
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataService.dll.config
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataService.dll
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataService.pdb
+C:\Users\naxis\source\repos\DataService\obj\Debug\DataService.csproj.AssemblyReference.cache
+C:\Users\naxis\source\repos\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\DataService\obj\Debug\DataService.dll
+C:\Users\naxis\source\repos\DataService\obj\Debug\DataService.pdb
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataAccessTier.dll
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataEntityTier.exe
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataAccessTier.pdb
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataAccessTier.dll.config
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataEntityTier.pdb
+C:\Users\naxis\source\repos\DataService\bin\Debug\DataEntityTier.exe.config
+C:\Users\naxis\source\repos\DataService\obj\Debug\DataService.csproj.CopyComplete

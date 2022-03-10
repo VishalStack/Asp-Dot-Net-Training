@@ -1,0 +1,17 @@
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\PresentationTier.exe.config
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\PresentationTier.exe
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\PresentationTier.pdb
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\DataEntityTier.exe
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\DataEntityTier.pdb
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\DataEntityTier.exe.config
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.cache
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.csproj.CopyComplete
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.exe
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.pdb
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.Form1.resources
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\DataAccessTier.dll
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\DataAccessTier.pdb
+C:\Users\naxis\source\repos\PresentationTier\bin\Debug\DataAccessTier.dll.config
+C:\Users\naxis\source\repos\PresentationTier\obj\Debug\PresentationTier.csproj.AssemblyReference.cache
