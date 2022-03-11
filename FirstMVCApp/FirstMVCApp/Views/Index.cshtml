@@ -1,0 +1,11 @@
+﻿@{
+    Layout = null;
+}
+
+@{
+    ViewBag.Title = "Index";
+}
+<h1>Index</h1>
+
+@Html.ActionLink("Go To Mens Home ", "Index", "Home", new { area = "Mens" }, null)
+@Html.ActionLink("Go To Womens Home ", "Index", "Home", new { area = "Womens" }, null)

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        h1{
+            color:aqua
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+       @{
+           var Myview2part = Html.Partial("_Myview2");
+           Myview2part = new MvcHtmlString(Myview2part.ToString() + "<h1> My View is Looking Now</h2>");
+       } 
+        @Myview2part
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+
+        <hr />
+        @{Html.RenderPartial("_Myview");}
+        <h2>By Dhwani Patel</h2>
+        @{Html.RenderAction("Students", "My");}
+        
+
+
+
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

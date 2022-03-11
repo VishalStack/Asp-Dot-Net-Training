@@ -1,0 +1,14 @@
+﻿@model HTMLHelperWithMVC.Models.UserModel
+@{
+    ViewBag.Title = "Temp";
+}
+
+<h2>Temp</h2>
+@using (Html.BeginForm())
+            {
+
+    @Html.EditorForModel();
+    <input type="submit" value="LogIn"/>
+
+            }
+

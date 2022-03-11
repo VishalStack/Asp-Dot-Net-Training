@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Creating HTML Inline Helper Using The Razor Systax</h2>
+<h2>Index</h2>
+
+@helper showdetails(string[] items)
+    {
+        <ol>
+            @foreach(string obj in items)
+        {
+            <li>@obj</li>
+        }
+
+        </ol> 
+    }
+
+<h2>Student Details</h2>
+@showdetails(new string[] {"Dhwani" , "Ekta" , "Naxi"})
+
+<h2>City</h2>
+@showdetails(new string[] {"Ahmedabad" ,"Gandhinagar" ,"Mahesana"})
+
+<h2>Built In Type Helper 1.Standard Helper</h2>
+@Html.Label("UserName :")
+@Html.TextBox("txt")<br /><br />
+@Html.Label("Password :")
+@Html.Password("txt1")<br /><br />
+@Html.DropDownList("dropdown1",new SelectList(new[] {"Java","Python","c","c#","HTML","CSS","JavaScript"}))
+
+
