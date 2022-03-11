@@ -1,0 +1,29 @@
+﻿@using FirstMVCApp.Models
+@model Employee
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+@using (Html.BeginForm()) 
+{ 
+<table>
+    <tr>
+        <th>Id : </th>
+        <td>@Html.EditorFor(p=>p.Id)</td>
+    </tr>
+    <tr>
+        <th>Name : </th>
+        <td>@Html.EditorFor(p=>p.Name)</td>
+    </tr>
+    <tr>
+        <th>Salary : </th>
+        <td>@Html.EditorFor(p=>p.Salary)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" value="Save"</td>
+    </tr>
+</table>
+}
+

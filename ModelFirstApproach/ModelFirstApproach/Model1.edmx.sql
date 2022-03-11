@@ -1,0 +1,95 @@
+
+-- --------------------------------------------------
+-- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
+-- --------------------------------------------------
+-- Date Created: 03/11/2022 11:02:48
+-- Generated from EDMX file: C:\Users\kirta\source\repos\ModelFirstApproach\ModelFirstApproach\Model1.edmx
+-- --------------------------------------------------
+
+SET QUOTED_IDENTIFIER OFF;
+GO
+USE [Student];
+GO
+IF SCHEMA_ID(N'dbo') IS NULL EXECUTE(N'CREATE SCHEMA [dbo]');
+GO
+
+-- --------------------------------------------------
+-- Dropping existing FOREIGN KEY constraints
+-- --------------------------------------------------
+
+IF OBJECT_ID(N'[dbo].[FK_StudentMark]', 'F') IS NOT NULL
+    ALTER TABLE [dbo].[Marks] DROP CONSTRAINT [FK_StudentMark];
+GO
+
+-- --------------------------------------------------
+-- Dropping existing tables
+-- --------------------------------------------------
+
+IF OBJECT_ID(N'[dbo].[Students]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[Students];
+GO
+IF OBJECT_ID(N'[dbo].[Marks]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[Marks];
+GO
+
+-- --------------------------------------------------
+-- Creating all tables
+-- --------------------------------------------------
+
+-- Creating table 'Students'
+CREATE TABLE [dbo].[Students] (
+    [Id] int IDENTITY(1,1) NOT NULL,
+    [Name] nvarchar(max)  NOT NULL,
+    [Address] nvarchar(max)  NOT NULL,
+    [Mobile] nvarchar(max)  NOT NULL
+);
+GO
+
+-- Creating table 'Marks'
+CREATE TABLE [dbo].[Marks] (
+    [Id] int IDENTITY(1,1) NOT NULL,
+    [Subject] nvarchar(max)  NOT NULL,
+    [FMark] nvarchar(max)  NOT NULL,
+    [OMark] nvarchar(max)  NOT NULL,
+    [StudentId] int  NOT NULL
+);
+GO
+
+-- --------------------------------------------------
+-- Creating all PRIMARY KEY constraints
+-- --------------------------------------------------
+
+-- Creating primary key on [Id] in table 'Students'
+ALTER TABLE [dbo].[Students]
+ADD CONSTRAINT [PK_Students]
+    PRIMARY KEY CLUSTERED ([Id] ASC);
+GO
+
+-- Creating primary key on [Id] in table 'Marks'
+ALTER TABLE [dbo].[Marks]
+ADD CONSTRAINT [PK_Marks]
+    PRIMARY KEY CLUSTERED ([Id] ASC);
+GO
+
+-- --------------------------------------------------
+-- Creating all FOREIGN KEY constraints
+-- --------------------------------------------------
+
+-- Creating foreign key on [StudentId] in table 'Marks'
+ALTER TABLE [dbo].[Marks]
+ADD CONSTRAINT [FK_StudentMark]
+    FOREIGN KEY ([StudentId])
+    REFERENCES [dbo].[Students]
+        ([Id])
+    ON DELETE NO ACTION ON UPDATE NO ACTION;
+GO
+
+-- Creating non-clustered index for FOREIGN KEY 'FK_StudentMark'
+CREATE INDEX [IX_FK_StudentMark]
+ON [dbo].[Marks]
+    ([StudentId]);
+GO
+
+-- --------------------------------------------------
+-- Script has ended
+-- --------------------------------------------------
