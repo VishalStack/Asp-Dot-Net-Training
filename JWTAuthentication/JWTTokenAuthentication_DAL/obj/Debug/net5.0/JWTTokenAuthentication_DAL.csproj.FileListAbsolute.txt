@@ -1,0 +1,14 @@
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\bin\Debug\net5.0\JWTTokenAuthentication_DAL.deps.json
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\bin\Debug\net5.0\JWTTokenAuthentication_DAL.runtimeconfig.json
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\bin\Debug\net5.0\JWTTokenAuthentication_DAL.runtimeconfig.dev.json
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\bin\Debug\net5.0\JWTTokenAuthentication_DAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\bin\Debug\net5.0\ref\JWTTokenAuthentication_DAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\bin\Debug\net5.0\JWTTokenAuthentication_DAL.pdb
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\JWTTokenAuthentication_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\JWTTokenAuthentication_DAL.AssemblyInfoInputs.cache
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\JWTTokenAuthentication_DAL.AssemblyInfo.cs
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\JWTTokenAuthentication_DAL.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\JWTTokenAuthentication_DAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\ref\JWTTokenAuthentication_DAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\JWTTokenAuthentication_DAL.pdb
+C:\Users\naxis\source\repos\JWTTokenAuthentication_DAL\obj\Debug\net5.0\JWTTokenAuthentication_DAL.genruntimeconfig.cache

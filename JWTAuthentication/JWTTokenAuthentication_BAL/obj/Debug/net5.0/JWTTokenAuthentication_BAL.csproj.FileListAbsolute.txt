@@ -1,0 +1,15 @@
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\bin\Debug\net5.0\JWTTokenAuthentication_BAL.deps.json
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\bin\Debug\net5.0\JWTTokenAuthentication_BAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\bin\Debug\net5.0\ref\JWTTokenAuthentication_BAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\bin\Debug\net5.0\JWTTokenAuthentication_BAL.pdb
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\bin\Debug\net5.0\JWTTokenAuthentication_DAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\bin\Debug\net5.0\JWTTokenAuthentication_DAL.pdb
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.csproj.AssemblyReference.cache
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.AssemblyInfoInputs.cache
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.AssemblyInfo.cs
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.csproj.CopyComplete
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\ref\JWTTokenAuthentication_BAL.dll
+C:\Users\naxis\source\repos\JWTTokenAuthentication_BAL\obj\Debug\net5.0\JWTTokenAuthentication_BAL.pdb
