@@ -1,0 +1,15 @@
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\bin\Debug\net6.0\TokenAuthentication_BAL.deps.json
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\bin\Debug\net6.0\TokenAuthentication_BAL.dll
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\bin\Debug\net6.0\TokenAuthentication_BAL.pdb
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\bin\Debug\net6.0\TokenAuthentication_DAL.dll
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\bin\Debug\net6.0\TokenAuthentication_DAL.pdb
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.csproj.AssemblyReference.cache
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.AssemblyInfoInputs.cache
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.AssemblyInfo.cs
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.csproj.CoreCompileInputs.cache
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.csproj.CopyComplete
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.dll
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\refint\TokenAuthentication_BAL.dll
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\TokenAuthentication_BAL.pdb
+C:\Users\kirta\source\repos\TokenAuthentication_BAL\obj\Debug\net6.0\ref\TokenAuthentication_BAL.dll

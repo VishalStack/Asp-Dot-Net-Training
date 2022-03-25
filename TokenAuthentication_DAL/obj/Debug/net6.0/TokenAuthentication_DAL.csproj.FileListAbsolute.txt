@@ -1,0 +1,14 @@
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\bin\Debug\net6.0\TokenAuthentication_DAL.deps.json
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\bin\Debug\net6.0\TokenAuthentication_DAL.runtimeconfig.json
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\bin\Debug\net6.0\TokenAuthentication_DAL.dll
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\bin\Debug\net6.0\TokenAuthentication_DAL.pdb
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.csproj.AssemblyReference.cache
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.AssemblyInfoInputs.cache
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.AssemblyInfo.cs
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.csproj.CoreCompileInputs.cache
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.dll
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\refint\TokenAuthentication_DAL.dll
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.pdb
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\TokenAuthentication_DAL.genruntimeconfig.cache
+C:\Users\kirta\source\repos\TokenAuthentication_DAL\obj\Debug\net6.0\ref\TokenAuthentication_DAL.dll
