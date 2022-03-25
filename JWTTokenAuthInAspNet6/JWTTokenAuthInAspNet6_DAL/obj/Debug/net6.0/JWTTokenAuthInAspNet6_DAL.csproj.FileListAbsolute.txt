@@ -1,0 +1,14 @@
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.deps.json
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.dll
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.pdb
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.csproj.AssemblyReference.cache
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.AssemblyInfoInputs.cache
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.AssemblyInfo.cs
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.dll
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\refint\JWTTokenAuthInAspNet6_DAL.dll
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.pdb
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\ref\JWTTokenAuthInAspNet6_DAL.dll
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\bin\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.runtimeconfig.json
+C:\Users\patel\source\repos\JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6_DAL\obj\Debug\net6.0\JWTTokenAuthInAspNet6_DAL.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTTokenAuthInAspNet6", "JWTTokenAuthInAspNet6\JWTTokenAuthInAspNet6.csproj", "{8B6347D9-B2EB-46A6-BD5E-08701098C738}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTTokenAuthInAspNet6_DAL", "JWTTokenAuthInAspNet6_DAL\JWTTokenAuthInAspNet6_DAL.csproj", "{D4B14F17-0E5B-4508-B77A-9EFC8C312DCC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWTTokenAuthInAspNet6_BAL", "JWTTokenAuthInAspNet6_BAL\JWTTokenAuthInAspNet6_BAL.csproj", "{A1998FCB-402F-4074-8AC0-E808BCE38289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B6347D9-B2EB-46A6-BD5E-08701098C738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6347D9-B2EB-46A6-BD5E-08701098C738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6347D9-B2EB-46A6-BD5E-08701098C738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6347D9-B2EB-46A6-BD5E-08701098C738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B14F17-0E5B-4508-B77A-9EFC8C312DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B14F17-0E5B-4508-B77A-9EFC8C312DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B14F17-0E5B-4508-B77A-9EFC8C312DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B14F17-0E5B-4508-B77A-9EFC8C312DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1998FCB-402F-4074-8AC0-E808BCE38289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1998FCB-402F-4074-8AC0-E808BCE38289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1998FCB-402F-4074-8AC0-E808BCE38289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1998FCB-402F-4074-8AC0-E808BCE38289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D0587A5-809A-4D31-B463-6E2E0E53B391}
+	EndGlobalSection
+EndGlobal
