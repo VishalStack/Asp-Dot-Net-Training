@@ -1,0 +1,139 @@
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Threading.Tasks;
+
+//namespace CoreServices.Repository
+//{
+//    public interface PostRepository
+//    {
+//    }
+//}
+using CoreServices.DataModels;
+using CoreServices.ViewModel;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace CoreServices.Repository
+{
+    public class PostRepository : IPostRepository
+    {
+        DatabaseContext db;
+        public PostRepository(DatabaseContext _db)
+        {
+            db = _db;
+        }
+
+        public async Task<List<Category>> GetCategories()
+        {
+            if (db != null)
+            {
+                return await db.Categories.ToListAsync();
+            }
+
+            return null;
+        }
+
+        public async Task<List<PostViewModel>> GetPosts()
+        {
+            if (db != null)
+            {
+                return await (from p in db.Posts
+                              from c in db.Categories
+                              where p.CategoryId == c.Id
+                              select new PostViewModel
+                              {
+                                  PostId = p.PostId,
+                                  Title = p.Title,
+                                  Description = p.Description,
+                                  CategoryId = p.CategoryId,
+                                  CategoryName = c.Name,
+                                  CreatedDate = p.CreatedDate
+                              }).ToListAsync();
+            }
+
+            return null;
+        }
+
+        public async Task<PostViewModel> GetPost(int? postId)
+        {
+            if (db != null)
+            {
+                return await (from p in db.Posts
+                              from c in db.Categories
+                              where p.PostId == postId
+                              select new PostViewModel
+                              {
+                                  PostId = p.PostId,
+                                  Title = p.Title,
+                                  Description = p.Description,
+                                  CategoryId = p.CategoryId,
+                                  CategoryName = c.Name,
+                                  CreatedDate = p.CreatedDate
+                              }).FirstOrDefaultAsync();
+            }
+
+            return null;
+        }
+
+        public async Task<int> AddPost(Post post)
+        {
+            if (db != null)
+            {
+                try
+                {
+                    await db.Posts.AddAsync(post);
+                    await db.SaveChangesAsync();
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    throw;
+                }
+
+                return post.PostId;
+            }
+
+            return 2;
+        }
+
+        public async Task<int> DeletePost(int? postId)
+        {
+            int result = 0;
+
+            if (db != null)
+            {
+                //Find the post for specific post id
+                var post = await db.Posts.FirstOrDefaultAsync(x => x.PostId == postId);
+
+                if (post != null)
+                {
+                    //Delete that post
+                    db.Posts.Remove(post);
+
+                    //Commit the transaction
+                    result = await db.SaveChangesAsync();
+                }
+                return result;
+            }
+
+            return result;
+        }
+
+
+        public async Task UpdatePost(Post post)
+        {
+            if (db != null)
+            {
+                //Delete that post
+                db.Posts.Update(post);
+
+                //Commit the transaction
+                await db.SaveChangesAsync();
+            }
+        }
+    }
+}
