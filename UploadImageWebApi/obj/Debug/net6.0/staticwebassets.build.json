@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "YLFf8w0z3Ogm40RQExgcEBEK4ZakaSt9geGyDjgnJKQ=",
+  "Source": "UploadImageWebApi",
+  "BasePath": "_content/UploadImageWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UploadImageWebApi\\wwwroot",
+      "Source": "UploadImageWebApi",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\",
+      "BasePath": "_content/UploadImageWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\uploads\\Image1.jpg",
+      "SourceId": "UploadImageWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\",
+      "BasePath": "_content/UploadImageWebApi",
+      "RelativePath": "uploads/Image1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Image1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\uploads\\Image2.jpg",
+      "SourceId": "UploadImageWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\",
+      "BasePath": "_content/UploadImageWebApi",
+      "RelativePath": "uploads/Image2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Image2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\uploads\\Image3.jpg",
+      "SourceId": "UploadImageWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\",
+      "BasePath": "_content/UploadImageWebApi",
+      "RelativePath": "uploads/Image3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Image3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\uploads\\Image4.jpg",
+      "SourceId": "UploadImageWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\UploadImageWebApi\\wwwroot\\",
+      "BasePath": "_content/UploadImageWebApi",
+      "RelativePath": "uploads/Image4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Image4.jpg"
+    }
+  ]
+}
