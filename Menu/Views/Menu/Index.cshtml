@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>CSS3 Responsive Menu Dropdown + Submenu width Logo</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+
+<body>
+    <header>
+        <nav id='cssmenu'>
+            <div class="logo"><a href="index.html">Responsive </a></div>
+            <div id="head-mobile"></div>
+            <div class="button"></div>
+            <ul>
+                @{
+                    foreach (System.Data.DataRow dr in ViewBag.category.Rows)
+                    {
+                        <li>
+                            <a href='#'>@dr["Category_Name"]</a>
+                            @{
+                                ((Menu.Controllers.MenuController)this.ViewContext.Controller).get_Submenu(Convert.ToInt32(dr["Cat_id"]));
+                            }
+                            <ul>
+                                @{
+                                    foreach (Menu.Models.Subcategory subitem in Session["submenu"] as List<Menu.Models.Subcategory>)
+                                    {
+                                        <li>
+                                            <a href='#'>@subitem.Subcat_name</a>
+                                            @{
+                                                ((Menu.Controllers.MenuController)this.ViewContext.Controller).get_Subtosubmenu(Convert.ToInt32(subitem.Subcat_id));
+                                            }
+                                            <ul>
+                                                @{
+                                                    foreach (Menu.Models.subtosubcategory subtosubitem in Session["subtosubmenu"] as List<Menu.Models.subtosubcategory>)
+                                                    {
+                                                        <li><a href='#'>@subtosubitem.Subtosubcat_Name</a></li>
+                                                    } }
+                                            </ul>
+                                        </li>
+                                    } }
+                            </ul>
+                        </li>
+                    } }
+            </ul>
+        </nav>
+    </header>
+    <section style='padding-top:20px;font:bold  44px arial;color:#68D800;'>
+        Responsive CSS3 Menu <br />Dropdown + Submenus <br />
+        Width Toggle Animation
+    </section>
+    <script src="~/js/jquery-1.10.2.min.js"></script>
+    <script src="~/js/index.js"></script>
+</body>
+</html>
