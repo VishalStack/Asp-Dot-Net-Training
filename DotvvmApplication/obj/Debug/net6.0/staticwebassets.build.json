@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "rEFI4dkf4DQKnd8GZsVo2lFKh8O3bUeAeOrUX6xVSz8=",
+  "Source": "DotvvmApplication",
+  "BasePath": "_content/DotvvmApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DotvvmApplication\\wwwroot",
+      "Source": "DotvvmApplication",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\DotvvmApplication\\wwwroot\\",
+      "BasePath": "_content/DotvvmApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kirta\\source\\repos\\DotvvmApplication\\wwwroot\\Resources\\Images\\text.svg",
+      "SourceId": "DotvvmApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\DotvvmApplication\\wwwroot\\",
+      "BasePath": "_content/DotvvmApplication",
+      "RelativePath": "Resources/Images/text.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\text.svg"
+    },
+    {
+      "Identity": "C:\\Users\\kirta\\source\\repos\\DotvvmApplication\\wwwroot\\Resources\\Images\\tree.svg",
+      "SourceId": "DotvvmApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\DotvvmApplication\\wwwroot\\",
+      "BasePath": "_content/DotvvmApplication",
+      "RelativePath": "Resources/Images/tree.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\Images\\tree.svg"
+    },
+    {
+      "Identity": "C:\\Users\\kirta\\source\\repos\\DotvvmApplication\\wwwroot\\Resources\\style.css",
+      "SourceId": "DotvvmApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kirta\\source\\repos\\DotvvmApplication\\wwwroot\\",
+      "BasePath": "_content/DotvvmApplication",
+      "RelativePath": "Resources/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Resources\\style.css"
+    }
+  ]
+}
