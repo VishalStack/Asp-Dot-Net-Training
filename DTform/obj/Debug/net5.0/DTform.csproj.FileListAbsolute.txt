@@ -1,0 +1,16 @@
+C:\Users\naxis\source\repos\DTform\bin\Debug\net5.0\DTform.exe
+C:\Users\naxis\source\repos\DTform\bin\Debug\net5.0\DTform.deps.json
+C:\Users\naxis\source\repos\DTform\bin\Debug\net5.0\DTform.runtimeconfig.json
+C:\Users\naxis\source\repos\DTform\bin\Debug\net5.0\DTform.runtimeconfig.dev.json
+C:\Users\naxis\source\repos\DTform\bin\Debug\net5.0\DTform.dll
+C:\Users\naxis\source\repos\DTform\bin\Debug\net5.0\ref\DTform.dll
+C:\Users\naxis\source\repos\DTform\bin\Debug\net5.0\DTform.pdb
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.csproj.AssemblyReference.cache
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.AssemblyInfoInputs.cache
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.AssemblyInfo.cs
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.csproj.CoreCompileInputs.cache
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.dll
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\ref\DTform.dll
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.pdb
+C:\Users\naxis\source\repos\DTform\obj\Debug\net5.0\DTform.genruntimeconfig.cache
